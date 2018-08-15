@@ -1,0 +1,30 @@
+####cores
+preto		- 0,0,0			#000000
+branco		- 255,255,255	#FFFFFF
+cinza1		- 70,70,70		#464646
+cinza2		- 220,220,220	#DCDCDC
+vermelho1	- 153,0,48		#990030
+marrom1		- 156,90,60		#9C5A3C
+
+vermelho2	- 237,28,36		#ED1C24
+rosa		- 255,163,177	#FFA3B1
+
+laranja1	- 155,126,0		#9B7E00
+marrom2		- 229,170,122	#E5AA7A
+amarelo		- 255,194,14	#FFC20E
+amarelo2	- 245,228,156	#F5E49C
+
+amarelo3	- 255,245,0		#FFF500
+amarelo4	- 255,249,189	#FFF9BD
+verde1		- 168,230,29	#A8E61D
+verde2		- 211,249,188	#D3F9BC
+verde3		- 34,177,76		#22B14C	
+verde4		- 157,187,97	#9DBB61
+azul1		- 0,183,239		#00B7EF
+azul2		- 153,217,234	#99D9EA
+azul3		- 13,37,153		#0D2599
+azul4		- 112,154,209	#709AD1
+azul5		- 47,54,153		#2F3699
+azul6		- 84,109,142	#546D8E
+roxo1		- 111,49,152	#6F3198
+roxo2		- 181,165,213	#B5A5D5
